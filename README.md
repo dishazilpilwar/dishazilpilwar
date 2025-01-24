@@ -1,4 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Disha Zilpilwar</h1>
+<h3 align="center">Data Analyst. Learner. Fresher</h3>
+<img align="right" width="400" src="https://www.bing.com/th/id/OGC.fc71635c7f1b09ed30413f59bb749582?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f20368%2fscreenshots%2f4012238%2fdata_scene.gif&ehk=ECXtJw2tY6eCGzPJwDsu%2f9t8tB%2fvV%2bIUsxiCEq0QX84%3d">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishazilpilwar&label=Profile%20views&color=0e75b6&style=flat" alt="dishazilpilwar" /> </p>
+
+- 📫 How to reach me **dishazilpilwar@gmail.com**
+- ⚡ Fun fact **I enjoy adding a touch of humor to my day—because a little laughter never hurt productivity!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/disha-zilpilwar-19a520245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/disha-zilpilwar-19a520245/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishazilpilwar&show_icons=true&locale=en&layout=compact" alt="dishazilpilwar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishazilpilwar&show_icons=true&locale=en" alt="dishazilpilwar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishazilpilwar&" alt="dishazilpilwar" /></p>
 
 <!--
 **dishazilpilwar/dishazilpilwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
